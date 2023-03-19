@@ -8,4 +8,4 @@ The player can move the snake in four directions: up, down, left, and right.
 The game speeds up as the snake grows longer.
 The player earns points for each piece of food eaten.
 The highest score is recorded and can be viewed at the end of the game.
-![alt text](image_file_name.png)
+![alt text](snake-game.jpg)
